@@ -1,0 +1,29 @@
+h1 {
+	margin: 50px 0px;
+}
+#search {
+	margin: 50px 0px;
+}
+#find {
+	width: 200px;
+}
+#random {
+	width: 200px;
+}
+.row {
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+}
+#display {
+	margin: 50px 0px;
+	width: 80%;
+}
+.headers, .items {
+	color: #4F5172;
+}
+footer {
+	text-align: center;
+	font-size: 24px;
+	margin: 20px 0px;
+}
